@@ -1,8 +1,13 @@
 # What I did today
 
+## 3/30/2019
+
+- Learnt JavaScript generator functions
+- Finished Numerical Methods Lab Work 3 (numerical integration, [link](https://dimagashko.github.io/NUK_Projects/Numerical%20Methods/development/LabWork3-numerical-integration/index.html)) 
+
 ## 3/29/2019
 
-- // Numerical Methods Lab Work 3 (numerical integration)
+- Started Numerical Methods Lab Work 3 (numerical integration)
 
 ## 3/28/2019
 

@@ -2,8 +2,11 @@
 
 ## 3/30/2019
 
+- Installed Ubuntu to VB
+- Started learning Linux
+- Started Postindustria Web Course
 - Learnt JavaScript generator functions
-- Finished Numerical Methods Lab Work 3 (numerical integration, [link](https://dimagashko.github.io/NUK_Projects/Numerical%20Methods/development/LabWork3-numerical-integration/index.html)) 
+- Finished Numerical Methods Lab Work 3 (numerical integration, [link](https://dimagashko.github.io/NUK_Projects/Numerical%20Methods/development/LabWork3-numerical-integration/index.html))
 
 ## 3/29/2019
 

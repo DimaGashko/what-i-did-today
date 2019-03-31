@@ -1,5 +1,9 @@
 # What I did today
 
+## 3/31/2019
+
+- Installed Ubuntu and clean installed Windows10
+
 ## 3/30/2019
 
 - Installed Ubuntu to VB

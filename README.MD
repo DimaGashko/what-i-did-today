@@ -2,7 +2,7 @@
 
 ## 3/31/2019
 
-- Installed Ubuntu and clean installed Windows
+- Installed Ubuntu and clean installed Windows10
 
 ## 3/30/2019
 

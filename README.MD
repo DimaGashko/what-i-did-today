@@ -1,5 +1,10 @@
 # What I did today
 
+## 4/1/2019
+
+- Started PostIndustria School Week 1
+- Learning some linux commands
+
 ## 3/31/2019
 
 - Installed Ubuntu and clean installed Windows10

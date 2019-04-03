@@ -1,8 +1,18 @@
 # What I did today
 
+## 4/2/2019
+
+- Learning php (string, arrays, function)
+- Postindustria week_1 task (almost done)
+
+## 4/2/2019
+
+- Learning php basics
+- Set up base php environment
+
 ## 4/1/2019
 
-- Started PostIndustria School Week 1
+- Started Postindustria School Week 1
 - Learning some linux commands
 
 ## 3/31/2019

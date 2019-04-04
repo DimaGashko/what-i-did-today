@@ -1,6 +1,12 @@
 # What I did today
 
-## 4/2/2019
+## 4/4/2019
+
+- Learning some linux commands
+- Done Postindustria week_1 task
+- Repeat Numerical Methods (root finding, numerical integration)
+
+## 4/3/2019
 
 - Learning php (string, arrays, function)
 - Postindustria week_1 task (almost done)

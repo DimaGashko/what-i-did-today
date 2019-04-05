@@ -1,5 +1,10 @@
 # What I did today
 
+## 4/5/2019
+
+- Install java and Intellij Idea in ubuntu
+- Recreate db for java lab work
+
 ## 4/4/2019
 
 - Learning some linux commands

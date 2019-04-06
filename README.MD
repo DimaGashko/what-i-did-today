@@ -1,5 +1,10 @@
 # What I did today
 
+## 4/6/2019
+
+- Algorithms lab work 8 (out of 7, Heap Sort)
+- Learning web protocol basics (TCP/IP, HTTP)
+
 ## 4/5/2019
 
 - Install java and Intellij Idea in ubuntu

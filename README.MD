@@ -1,5 +1,11 @@
 # What I did today
 
+## 4/7/2019
+
+- Installed javaFx 11 and configured it with java 11
+- Installed and configured jFoenix with java 11
+- Working on database lab work
+
 ## 4/6/2019
 
 - Algorithms lab work 8 (out of 7, Heap Sort)
@@ -7,7 +13,7 @@
 
 ## 4/5/2019
 
-- Install java and Intellij Idea in ubuntu
+- Installed java and Intellij Idea in ubuntu
 - Recreate db for java lab work
 
 ## 4/4/2019

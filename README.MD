@@ -5,6 +5,7 @@
 - Installed javaFx 11 and configured it with java 11
 - Installed and configured jFoenix with java 11
 - Working on database lab work
+- Learning git rebase
 
 ## 4/6/2019
 

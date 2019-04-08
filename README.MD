@@ -1,5 +1,10 @@
 # What I did today
 
+## 4/8/2019
+
+- Started Postindustria week_2_3
+- Learning OOP in PHP
+
 ## 4/7/2019
 
 - Installed javaFx 11 and configured it with java 11

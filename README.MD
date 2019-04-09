@@ -1,5 +1,11 @@
 # What I did today
 
+## 4/9/2019
+
+- Learning php (date and time, files, basics of CURL, php from command line)
+- Started Postindustria week_2_3 task1
+- Basics of VIM editor
+
 ## 4/8/2019
 
 - Started Postindustria week_2_3

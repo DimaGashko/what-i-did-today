@@ -1,5 +1,18 @@
 # What I did today
 
+## 4/11/2019
+
+- Numerical Methods Lab Work 2
+- Numerical Methods Lab Work 3
+- Numerical Methods first test
+- Preparation for the ICPC 
+- DB task
+
+## 4/10/2019
+
+- Working on PI task1
+- Trial round of ICPC
+
 ## 4/9/2019
 
 - Learning php (date and time, files, basics of CURL, php from command line)

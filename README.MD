@@ -11,7 +11,7 @@
 ## 4/10/2019
 
 - Working on PI task1
-- Trial round of ICPC
+- Test tour of ICPC
 
 ## 4/9/2019
 

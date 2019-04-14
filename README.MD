@@ -1,5 +1,13 @@
 # What I did today
 
+## 4/13/2019
+
+- ICPC
+
+## 4/12/2019
+
+- Preparation for the ICPC  
+
 ## 4/11/2019
 
 - Numerical Methods Lab Work 2

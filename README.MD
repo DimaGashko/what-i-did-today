@@ -1,5 +1,9 @@
 # What I did today
 
+## 4/14/2019
+
+- Working on PI week_2_3 tasks
+
 ## 4/13/2019
 
 - ACM ICPC 1/8 Final

@@ -1,5 +1,10 @@
 # What I did today
 
+## 4/17/2019
+
+- Solved PI Week_2_3 taksk
+- Preparation for ICPC 
+
 ## 4/16/2019
 
 - ACM ICPC 1/8 Final (upsolving)

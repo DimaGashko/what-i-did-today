@@ -1,5 +1,11 @@
 # What I did today
 
+## 4/18/2019
+
+- Working on DB project
+- Working on Java Labs
+- Codeforeces Contest..
+
 ## 4/17/2019
 
 - Solved PI Week_2_3 taksk

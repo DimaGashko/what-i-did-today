@@ -1,10 +1,15 @@
 # What I did today
 
+## 4/20/2019
+
+- I set up the windows one more time
+- Preparation for ICPC 
+
 ## 4/19/2019
 
 - Started refactoring PI tasks
 - Working on DB project
-- Setted up the windows
+- Set up the windows
 - Preparation for ICPC 
 
 ## 4/18/2019

@@ -1,5 +1,16 @@
 # What I did today
 
+## 4/22/2019
+
+- Working on java lab (JPA)
+- Starten new PI week
+- Pretaration for ICPC
+
+## 4/21/2019
+
+- Finished PI week_2_3
+- Pretaration for ICPC
+
 ## 4/20/2019
 
 - I set up the windows one more time

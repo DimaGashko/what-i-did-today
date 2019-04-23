@@ -1,5 +1,10 @@
 # What I did today
 
+## 4/23/2019
+
+- Working on java lab (JPA) 
+- Pretaration for ICPC
+
 ## 4/22/2019
 
 - Working on java lab (JPA)

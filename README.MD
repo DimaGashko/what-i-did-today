@@ -1,5 +1,12 @@
 # What I did today
 
+## 4/24/2019
+
+- Java lab work 3 (JPA)
+- Java lab work 4
+- Numerical Methods
+- Pretaration for ICPC 
+
 ## 4/23/2019
 
 - Working on java lab (JPA) 

@@ -5,6 +5,7 @@
 - Java lab work 3 (JPA, ORM)
 - Java lab work 4
 - Numerical Methods (linear system)
+- Pretaration for ICPC 
 
 ## 4/24/2019
 

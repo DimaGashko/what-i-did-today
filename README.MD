@@ -1,5 +1,10 @@
 # What I did today
 
+## 4/27/2019
+
+- Pretaration for ICPC
+- Working on Postingustria task
+
 ## 4/26/2019
 
 - Pretaration for ICPC

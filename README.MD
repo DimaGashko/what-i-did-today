@@ -1,5 +1,9 @@
 # What I did today
 
+## 4/28/2019
+
+- Pretaration for ICPC 
+
 ## 4/27/2019
 
 - Pretaration for ICPC

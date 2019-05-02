@@ -1,5 +1,11 @@
 # What I did today
 
+## 5/2/2019
+
+- Working on Postingustria task
+- Numerical Methos Lab Work (linear systems)
+- Working on DB Lab Works
+
 ## 5/1/2019
 
 - Working on Postingustria task

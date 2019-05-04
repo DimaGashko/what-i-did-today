@@ -1,5 +1,12 @@
 # What I did today
 
+## 5/3/2019
+
+- Working on Postingustria task
+- Working on Java Lab Works
+- Working on DB Lab Works
+- Pretaration for ICPC
+
 ## 5/2/2019
 
 - Working on Postingustria task

@@ -3,6 +3,7 @@
 ## 5/5/2019
 
 - Finished PI week_4_5 (maybe)
+- Pretaration for ICPC
 
 ## 5/4/2019
 

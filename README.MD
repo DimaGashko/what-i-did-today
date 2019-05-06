@@ -5,6 +5,7 @@
 - Working on Numerical Methods Lab Works
 - Started the PI week_6_7
 - Started course on the flexbox.io
+- Pretaration for ICPC
 
 ## 5/5/2019
 

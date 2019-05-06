@@ -1,5 +1,11 @@
 # What I did today
 
+## 5/6/2019
+
+- Working on Numerical Methods Lab Works
+- Started the PI week_6_7
+- Started course on the flexbox.io
+
 ## 5/5/2019
 
 - Finished PI week_4_5 (maybe)

@@ -6,6 +6,7 @@
 - Started the PI week_6_7
 - Started course on the flexbox.io
 - Pretaration for ICPC
+- Set up node.js, yarn, etc. on ubuntu
 
 ## 5/5/2019
 

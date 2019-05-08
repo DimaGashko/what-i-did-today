@@ -1,5 +1,16 @@
 # What I did today
 
+## 5/7/2019
+
+- Working on the PI task
+- Pretaration for ICPC
+- Learnt css variables
+
+## 5/7/2019
+
+- Working on the PI task
+- Finished flexbox.io course
+
 ## 5/6/2019
 
 - Working on Numerical Methods Lab Works

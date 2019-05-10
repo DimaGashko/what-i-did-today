@@ -1,6 +1,11 @@
 # What I did today
 
-## 5/7/2019
+## 5/9/2019
+
+- Pretaration for ICPC
+- Optimize Webpack config
+
+## 5/8/2019
 
 - Working on the PI task
 - Pretaration for ICPC

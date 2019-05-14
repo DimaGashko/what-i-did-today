@@ -1,8 +1,17 @@
 # What I did today
 
-## 5/11/2019
+## 5/14/2019
 
 - Working on the PI task
+
+## 5/13/2019
+
+- Working on the PI task
+
+## 5/12/2019
+
+- Working on the PI task
+- Wrote Vanilla JS Routing
 
 ## 5/11/2019
 

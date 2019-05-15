@@ -1,8 +1,20 @@
 # What I did today
 
+## 5/16/2019
+
+- Numerical Methods Lab Work 5 (Interpolation)
+
+## 5/15/2019
+
+- Preparetion for DB test
+- Pass DB test
+- Numerical Methods Lab Work 4 (Linear Systems)
+- Started Numerical Methods Lab Work 5 (Interpolation)
+
 ## 5/14/2019
 
 - Working on the PI task
+- Preparetion for DB test
 
 ## 5/13/2019
 

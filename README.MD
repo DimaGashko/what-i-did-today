@@ -3,6 +3,11 @@
 ## 5/16/2019
 
 - Numerical Methods Lab Work 5 (Interpolation)
+- Numerical Methods Lab Work 6 (Approximate)
+- Nuberical Methods Lab Work 7 (Differential Equations))
+- Numerical Methods Test
+- Numerical Methods Done
+- Working on the PI task
 
 ## 5/15/2019
 

@@ -1,5 +1,9 @@
 # What I did today
 
+## 5/20/2019
+
+- Started coursework in java
+
 ## 5/19/2019
 
 - The PI week_6_7 Done

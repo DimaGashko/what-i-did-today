@@ -1,5 +1,12 @@
 # What I did today
 
+## 5/19/2019
+
+- The PI week_6_7 Done
+
+## 5/18/2019
+- Working on the PI task
+
 ## 5/17/2019
 
 - Working on DB Lab Works

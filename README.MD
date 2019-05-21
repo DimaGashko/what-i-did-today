@@ -1,8 +1,12 @@
 # What I did today
 
+## 5/21/2019
+
+- Working on java coursework
+
 ## 5/20/2019
 
-- Started coursework in java
+- Started java coursework
 
 ## 5/19/2019
 

@@ -1,6 +1,11 @@
 # What I did today
 
-## 5/20/2019 - 5/26/2019
+## 5/28-29/2019
+
+- finished the second year of uni
+- came back to the PI tasks
+
+## 5/20/2019 - 5/27/2019
 
 - Working on java coursework
 

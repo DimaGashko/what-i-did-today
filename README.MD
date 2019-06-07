@@ -1,5 +1,19 @@
 # What I did today
 
+## 6/7/2019
+
+- Finished the PI task
+- Solved one simple algorithm task from codeforces.com
+- Training my listening and speeking skils with http://speekify.com 
+
+## 6/5-6/2019
+
+- The PI Task
+
+## 5/30/2019 - 4/6/2019
+
+- The PI Week_8
+
 ## 5/28-29/2019
 
 - finished the second year of uni

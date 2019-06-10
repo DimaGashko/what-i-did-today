@@ -1,5 +1,13 @@
 # What I did today
 
+## 6/10/2019
+
+- The PI task
+- Simple token based auth with localStorage
+- Read 1000 articles and watched 2000 videos about authentication
+- Improving english pronunciation skills
+- Practising english grammar
+
 ## 6/9/2019
 
 - The PI task

@@ -5,7 +5,7 @@
 - The PI task
 - Simple token based auth with localStorage
 - Read 1000 articles and watched 2000 videos about authentication
-- Improving english pronunciation skills
+- Improving english pronunciation skills (it hurt my throat)
 - Practising english grammar
 
 ## 6/9/2019

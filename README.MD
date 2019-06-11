@@ -4,6 +4,7 @@
 
 - The PI task
 - Simple token based auth with localStorage
+- Reading Laravel Documentation
 - Read 1000 articles and watched 2000 videos about authentication
 - Improving english pronunciation skills (it hurt my throat)
 - Practising english grammar

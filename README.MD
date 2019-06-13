@@ -22,7 +22,7 @@
 
 - Finished the PI task
 - Solved one simple algorithm task from codeforces.com
-- Training my listening and speeking skils with http://speekify.com 
+- Training my listening and speaking skills with speekify.com
 
 ## 6/5-6/2019
 
@@ -46,6 +46,7 @@
 - The PI week_6_7 Done
 
 ## 5/18/2019
+
 - Working on the PI task
 
 ## 5/17/2019
@@ -57,7 +58,7 @@
 
 - Numerical Methods Lab Work 5 (Interpolation)
 - Numerical Methods Lab Work 6 (Approximate)
-- Nuberical Methods Lab Work 7 (Differential Equations))
+- Numerical Methods Lab Work 7 (Differential Equations))
 - Learnt Chart.js
 - Numerical Methods Test
 - Numerical Methods Done
@@ -65,7 +66,7 @@
 
 ## 5/15/2019
 
-- Preparetion for DB test
+- Preparation for DB test
 - Pass DB test
 - Numerical Methods Lab Work 4 (Linear Systems)
 - Started Numerical Methods Lab Work 5 (Interpolation)
@@ -73,7 +74,7 @@
 ## 5/14/2019
 
 - Working on the PI task
-- Preparetion for DB test
+- Preparation for DB test
 
 ## 5/13/2019
 
@@ -87,23 +88,23 @@
 ## 5/11/2019
 
 - Working on the PI task
-- Pretaration for ICPC
+- Preparation for ICPC
 
 ## 5/10/2019
 
 - Working on the PI task
-- Pretaration for ICPC
+- Preparation for ICPC
 
 ## 5/9/2019
 
 - Working on the PI task
-- Pretaration for ICPC
+- Preparation for ICPC
 - Optimize Webpack config
 
 ## 5/8/2019
 
 - Working on the PI task
-- Pretaration for ICPC
+- Preparation for ICPC
 - Learnt css variables
 
 ## 5/7/2019
@@ -116,24 +117,24 @@
 - Working on Numerical Methods Lab Works
 - Started the PI week_6_7
 - Started course on the flexbox.io
-- Pretaration for ICPC
+- Preparation for ICPC
 - Set up node.js, yarn, etc. on ubuntu
 
 ## 5/5/2019
 
 - Finished PI week_4_5 (maybe)
-- Pretaration for ICPC
+- Preparation for ICPC
 
 ## 5/4/2019
 
-- Working on Postingustria task 
+- Working on Postingustria task
 
 ## 5/3/2019
 
 - Working on Postingustria task
 - Working on Java Lab Works
 - Working on DB Lab Works
-- Pretaration for ICPC
+- Preparation for ICPC
 
 ## 5/2/2019
 
@@ -144,30 +145,30 @@
 ## 5/1/2019
 
 - Working on Postingustria task
-- Pretaration for ICPC
+- Preparation for ICPC
 
 ## 4/30/2019
 
-- Pretaration for ICPC
+- Preparation for ICPC
 - Working on Postingustria task
 
 ## 4/29/2019
 
-- Pretaration for ICPC
+- Preparation for ICPC
 - Working on Postingustria task
 
 ## 4/28/2019
 
-- Pretaration for ICPC 
+- Preparation for ICPC
 
 ## 4/27/2019
 
-- Pretaration for ICPC
+- Preparation for ICPC
 - Working on Postingustria task
 
 ## 4/26/2019
 
-- Pretaration for ICPC
+- Preparation for ICPC
 - Working on Postingustria task
 
 ## 4/25/2019
@@ -175,40 +176,40 @@
 - Java lab work 3 (JPA, ORM)
 - Java lab work 4
 - Numerical Methods (linear system)
-- Pretaration for ICPC 
+- Preparation for ICPC
 
 ## 4/24/2019
 
 - Working on Java Lab Work 3
-- Pretaration for ICPC 
+- Preparation for ICPC
 
 ## 4/23/2019
 
-- Working on java lab (JPA) 
-- Pretaration for ICPC
+- Working on java lab (JPA)
+- Preparation for ICPC
 
 ## 4/22/2019
 
 - Working on java lab (JPA)
 - Starten new PI week
-- Pretaration for ICPC
+- Preparation for ICPC
 
 ## 4/21/2019
 
 - Finished PI week_2_3
-- Pretaration for ICPC
+- Preparation for ICPC
 
 ## 4/20/2019
 
 - I set up the windows one more time
-- Preparation for ICPC 
+- Preparation for ICPC
 
 ## 4/19/2019
 
 - Started refactoring PI tasks
 - Working on DB project
 - Set up the windows
-- Preparation for ICPC 
+- Preparation for ICPC
 
 ## 4/18/2019
 
@@ -218,12 +219,12 @@
 
 ## 4/17/2019
 
-- Solved PI Week_2_3 taksk
-- Preparation for ICPC 
+- Solved PI Week_2_3 task
+- Preparation for ICPC
 
 ## 4/16/2019
 
-- ACM ICPC 1/8 Final (upsolving)
+- ACM ICPC1/8 Final (upsolving)
 
 ## 4/15/2019
 
@@ -235,18 +236,18 @@
 
 ## 4/13/2019
 
-- ACM ICPC 1/8 Final
+- ACM ICPC1/8 Final
 
 ## 4/12/2019
 
-- Preparation for the ICPC  
+- Preparation for the ICPC
 
 ## 4/11/2019
 
 - Numerical Methods Lab Work 2
 - Numerical Methods Lab Work 3
 - Numerical Methods first test
-- Preparation for the ICPC 
+- Preparation for the ICPC
 - DB task
 
 ## 4/10/2019
@@ -336,5 +337,5 @@
 
 ## 3/26/2019
 
-- Registered to ICPC Coding Contest
+- Registered to ICPCCoding Contest
 - Repeated whole first part and half of second part of learn.javascript.ru

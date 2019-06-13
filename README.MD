@@ -1,10 +1,20 @@
 # What I did today
 
+## 6/13/2019
+
+- The PI Task
+- Reading laravel documentation
+
+## 6/11/2019-6/12/2019
+
+- The PI task front-end
+- CORS
+
 ## 6/10/2019
 
 - The PI task
 - Simple token based auth with localStorage
-- Reading Laravel Documentation
+- Reading laravel documentation
 - Read 1000 articles and watched 2000 videos about authentication
 - Improving english pronunciation skills (it hurt my throat)
 - Practising english grammar
